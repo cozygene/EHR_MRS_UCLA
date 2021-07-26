@@ -1,0 +1,772 @@
+GPI_subclass,PharmaceuticalSubclass
+6620,Gold Compounds
+8299,Hematopoietic Mixtures
+5670,Genitourinary Irrigants
+4250,Nasal Agents - Misc.
+1710,Viral Vaccines
+4210,Sympathomimetic Decongestants
+8527,In Vitro Hematologic Agents
+1800,TOXOIDS (Misc.)
+9410,Diagnostic Tests
+2170,Antineoplastics Misc.
+5510,Vaginal Anti-infectives
+4430,Xanthines
+5030,Antiemetics - Miscellaneous
+2320,Anabolic Steroids
+2710,Insulin
+4500,Respiratory Agents - Misc.
+1899,Toxoid Combinations
+4340,Misc. Respiratory Inhalants
+8508,Aminolevulinate Synthase 1-Directed siRNA
+7980,Zinc
+3016,Insulin-Like Growth Factors (Somatomedins)
+4420,Sympathomimetics
+9230,Mercury Antiseptics
+5540,Miscellaneous Vaginal Products
+7580,Viscosupplements
+2699,Progestin Combinations
+9740,Contraceptives
+9840,Liquid Vehicles
+3210,Nitrates
+7020,Volatile Anesthetics
+7863,Iron & B12 w/ Vitamins
+1235,Hepatitis Agents
+9420,Diagnostic Drugs
+9714,Medical Gases
+8240,Hematopoietic Growth Factors
+8420,Hemostatics - Topical
+8310,Heparins And Heparinoid-Like Agents
+4320,Expectorants
+9430,Diagnostic Biologicals
+1600,Anti-infective Agents - Misc.
+4415,Anti-Inflammatory Agents
+2140,Antineoplastic - Hormonal and Related Agents
+9200,Antiseptics & Disinfectants
+5530,Spermicides
+6799,Migraine Combinations
+4440,Steroid Inhalants
+9210,Chlorine Antiseptics
+2400,Estrogens
+8040,Lipotropics
+1720,Bacterial Vaccines
+3006,Fertility Regulators
+4299,Nasal Agent Combinations
+9860,Semi Solid Vehicles
+9440,Radiographic Contrast Media
+3890,Anaphylaxis Therapy Agents
+9599,Alternative Medicine Combinations
+2499,Estrogen Combinations
+4460,Antiasthmatic - Monoclonal Antibodies
+8210,Cobalamins
+5920,Phenothiazines
+1799,Mixed Vaccine Combinations
+6510,Opioid Agonists
+9460,"Diagnostic Products, Misc."
+2000,Biologicals Misc
+6410,Salicylates
+7910,Calcium
+2210,Glucocorticosteroids
+140,Extended-Spectrum Penicillins
+8560,Thrombolytic Enzymes
+9340,Opioid Antagonists
+8530,Plasma Expanders
+230,Cephalosporins - 3rd Generation
+2900,Oxytocics
+1622,Lincosamides
+700,Aminoglycosides
+1920,Antitoxins-Antivenins
+2125,Antineoplastic Enzymes
+6999,Local Anesthetic Combinations
+1299,Antiviral Combinations
+7599,Muscle Relaxant Combinations
+400,Tetracyclines
+4699,Laxative Combinations
+6910,Local Anesthetics - Amides
+1100,Antifungals
+9399,Antidote Combinations
+6610,Nonsteroidal Anti-inflammatory Agents (NSAIDs)
+7510,Central Muscle Relaxants
+7999,Electrolyte Mixtures
+220,Cephalosporins - 2nd Generation
+7990,Trace Minerals
+500,Fluoroquinolones
+2135,Antineoplastic - Antibodies
+3004,Bone Density Regulators
+8540,Plasma Proteins
+1910,Immune Serums
+8030,Proteins
+9940,Immunosuppressive Agents
+1660,Sepsis Syndrome Agents
+9450,Miscellaneous Contrast Media
+2199,Antineoplastic Combinations
+8270,Agents for Gaucher Disease
+199,Penicillin Combinations
+7960,Phosphate
+340,Azithromycin
+4920,H-2 Antagonists
+7040,Anesthetics - Misc.
+8333,Thrombin Inhibitors
+7699,Antimyasthenic Combinations
+3110,Phosphodiesterase Inhibitors
+9965,Sclerosing Agents
+1640,Antiprotozoal Agents
+7010,Barbiturate Anesthetics
+3045,Vasopressin Receptor Antagonists
+8010,Carbohydrates
+2120,Antineoplastic Antibiotics
+2175,Chemotherapy Rescue/Antidote Agents
+210,Cephalosporins - 1st Generation
+8410,Hemostatics - Systemic
+3740,Osmotic Diuretics
+2160,Antineoplastic Radiopharmaceuticals
+7905,Bicarbonates
+8580,Complement Inhibitors
+3660,Antihypertensives - Misc.
+7920,Chloride
+5610,Acidifiers
+3400,Calcium Channel Blockers
+3800,Vasopressors
+8740,Otic Agents - Miscellaneous
+8999,Rectal Combinations
+8720,Otic Analgesics
+8680,Ophthalmics - Misc.
+8799,Otic Combinations
+8610,Ophthalmic Anti-infectives
+8620,Artificial Tears and Lubricants
+8820,Lozenges
+8660,Ophthalmic Adrenergic Agents
+8830,Mouthwashes
+8835,Anesthetics Topical Oral
+8640,Ophthalmic Decongestants
+8650,Miotics
+8845,Periodontal Products
+8635,Cycloplegic Mydriatics
+8630,Ophthalmic Steroids
+8827,Antiallergy Agents - Mouth/Throat
+8815,Antiseptics - Mouth/Throat
+8850,Throat Products - Misc.
+9025,Antipsoriatics
+9085,Local Anesthetics - Topical
+9021,Anti-inflammatory Agents - Topical
+9089,Glabellar Lines (Frown Lines) Agents
+9006,Rosacea Agents
+9005,Acne Products
+9055,Corticosteroids - Topical
+9075,Keratolytic/Antimitotic Agents
+9015,Antifungals - Topical
+9066,Emollient/Keratolytic Agents
+9087,Pigmenting-Depigmenting Agents
+9020,Antihistamines-Topical
+9030,Antiseborrheic Products
+9094,Wound Care Products
+9052,Tar Products
+9097,Misc. Topical
+9010,Antibiotics - Topical
+9070,Enzymes - Topical
+9090,Scabicides & Pediculicides
+9095,Poison Ivy Products
+9074,Hair Reduction Agents
+9022,Antipruritics - Topical
+9080,Liniments
+9037,Antineoplastic or Premalignant Lesion Agents - Topical
+9098,Podiatric Products
+9035,Antivirals - Topical
+9065,Emollients
+9650,Bulk Chemicals - E's
+9670,Bulk Chemicals - O's
+9630,Solids
+9646,Bulk Chemicals - C's
+9680,Bulk Chemicals - T's
+9648,Bulk Chemicals - D's
+9672,Bulk Chemicals - P's
+9642,Bulk Chemicals - A's
+9664,Bulk Chemicals - L's
+9674,Bulk Chemicals - Q's
+9656,Bulk Chemicals - H's
+9666,Bulk Chemicals - M's
+9689,Bulk Chemicals - Z's
+9652,Bulk Chemicals - F's
+9678,Bulk Chemicals - S's
+9684,Bulk Chemicals - V's
+9644,Bulk Chemicals - B's
+9658,Bulk Chemicals - I's
+9620,Liquids
+9654,Bulk Chemicals - G's
+9676,Bulk Chemicals - R's
+9668,Bulk Chemicals - N's
+9662,Bulk Chemicals - K's
+9548,Alternative Medicine - P's
+9299,Antiseptic Combinations
+9557,Alternative Medicine - S's
+9990,Not Classified
+9705,Parenteral Therapy Supplies
+9750,Oral Hygiene Products
+9900,Miscellaneous Therapeutic Classes
+9536,Alternative Medicine - L's
+8840,Dental Products
+8825,Steroids - Mouth/Throat/Dental
+7851,Prenatal Vitamins
+8050,Misc. Nutritional Substances
+7820,Multivitamins
+7812,B-Complex w/ C
+7813,B-Complex w/ Folic Acid
+7985,Mineral Combinations
+7940,Magnesium
+7810,Vitamin Mixtures
+8125,Dietary Management Products
+6499,Analgesic Combinations
+6700,Migraine Products
+6699,Analgesics - Anti-inflammatory Combinations
+6599,Opioid Combinations
+4799,Antidiarrheal/Probiotic Combinations
+3505,Antiarrhythmics Type I - Nonspecific
+4660,Laxatives - Miscellaneous
+4899,Antacid Combinations
+5400,URINARY ANTISPASMODICS (Misc.)
+6120,Anorexiants Non-Amphetamine
+4310,Antitussives
+3310,Beta Blockers Non-Selective
+4910,Antispasmodics
+5799,Antianxiety Agent Combinations
+6010,Barbiturate Hypnotics
+1300,Antimalarials
+4499,Asthma and Bronchodilator Agent Combinations
+4110,Antihistamines - Alkylamines
+6299,Combination Psychotherapeutics
+4120,Antihistamines - Ethanolamines
+7310,Antiparkinson Anticholinergics
+3699,Antihypertensive Combinations
+1210,Antiretrovirals
+5399,Urinary Anti-infective Combinations
+5930,Thioxanthenes
+3620,Antiadrenergic Antihypertensives
+3799,Diuretic Combinations
+5199,Digestive Aids - Mixtures
+2010,Allergenic Extracts
+2799,Antidiabetic Combinations
+5300,Urinary Anti-infectives
+3940,HMG CoA Reductase Inhibitors
+3950,Antihyperlipidemics - Misc.
+5915,Dibenzapines
+3760,Thiazides and Thiazide-Like Diuretics
+5899,Antidepressant Combinations
+2153,Antineoplastic Enzyme Inhibitors
+7600,Antimyasthenic/Cholinergic Agents
+5020,Antiemetics - Anticholinergic
+5120,Digestive Enzymes
+5400,Urinary Antispasmodic - Antimuscarinics (Anticholinergic)
+4199,Antihistamines - Combinations
+4610,Saline Laxatives
+4840,Antacids - Magnesium Salts
+6030,Antihistamine Hypnotics
+4999,Ulcer Therapy Combinations
+2520,Progestin Contraceptives - IUD
+4030,Impotence Agents
+3399,Beta Blocker Combinations
+7320,Antiparkinson Dopaminergics
+499,Tetracycline Combinations
+5535,Vaginal Estrogens
+5620,Alkalinizers
+3499,Calcium Channel Blocker Combinations
+8330,Indanedione Anticoagulants
+4720,Gastrointestinal Adsorbents
+6125,Anti-Obesity Agents
+3002,Adrenal Steroid Inhibitors
+8515,Platelet Aggregation Inhibitors
+5950,Antimanic Agents
+7260,Anticonvulsants - Misc.
+6099,Hypnotic Combinations
+4810,Antacids - Aluminum Salts
+110,Natural Penicillins
+1699,Anti-infective Misc. - Combinations
+8230,Iron
+4130,Antihistamines - Ethylenediamines
+6140,Stimulants - Misc.
+800,Sulfonamides
+4630,Bulk Laxatives
+5499,Urinary Antispasmodic Combinations
+4155,Antihistamines - Non-Sedating
+5255,Irritable Bowel Syndrome (IBS) Agents
+320,Troleandomycin
+2530,Progestin Contraceptives - Implants
+5710,Benzodiazepines
+3999,Antihyperlipidemics - Combinations
+352,Dirithromycin
+4620,Stimulant Laxatives
+7220,Hydantoins
+6205,Antidementia Agents
+2810,Thyroid Hormones
+9521,Alternative Medicine - G's
+7299,Anticonvulsant Combinations
+9506,Alternative Medicine - B's
+5660,Urinary Stone Agents
+9503,Alternative Medicine - A's
+1399,Antimalarial Combinations
+4150,Antihistamines - Piperidines
+9539,Alternative Medicine - M's
+9512,Alternative Medicine - D's
+8020,Lipids
+9515,Alternative Medicine - E's
+9435,Diagnostic Radiopharmaceuticals
+5220,Antiflatulents
+4399,Cough/Cold/Allergy Combinations
+3020,Posterior Pituitary Hormones
+2505,Copper Contraceptives - IUD
+6210,Smoking Deterrents
+5630,Urinary Analgesics
+2597,Combination Contraceptives - Vaginal
+5811,N-Methyl-D-aspartic acid (NMDA) Receptor Antagonists
+6254,Postherpetic Neuralgia (PHN)/Neuropathic Pain Agents
+8340,In Vitro/Lock Anticoagulants
+2130,Antimetabolites
+6200,Psychotherapeutic and Neurological Agents - Misc.
+4017,Prostaglandin Vasodilators
+2110,Alkylating Agents
+7210,Anticonvulsants - Benzodiazepines
+7930,Fluoride
+4020,Cardioplegic Solutions
+7470,Spinal Muscular Atrophy Agents (SMA)
+2540,Emergency Contraceptives
+2157,Oncolytic Viral Agents
+2730,Diabetic Other
+2310,Androgens
+7710,Water Soluble Vitamins
+7584,Articular Cartilage Repair Therapy
+8120,Nutritional Supplements
+2920,Abortifacients/Agents for Cervical Ripening
+1260,Respiratory Syncytial Virus (RSV) Agents
+7720,Oil Soluble Vitamins
+1614,Monobactams
+6020,Non-Barbiturate Hypnotics
+1140,Imidazole-Related Antifungals
+5650,Interstitial Cystitis Agents
+3008,LHRH/GnRH Agonist Analog Pituitary Suppressants
+4050,Septal Agents
+3090,Metabolic Modifiers
+1240,Herpes Agents
+7811,B-Complex Vitamins
+8335,Anticoagulants - Misc.
+1250,Influenza Agents
+2600,Progestins
+5810,Monoamine Oxidase Inhibitors (MAOIs)
+5025,5-HT3 Receptor Antagonists
+5410,Urinary Antispasmodic - Antimuscarinics (Anticholinergic)
+2596,Combination Contraceptives - Transdermal
+6420,Analgesics Other
+6740,Serotonin Agonists
+6520,Opioid Partial Agonists
+6920,Local Anesthetics - Esters
+6415,Analgesics-Peptide Channel Blockers
+5250,Inflammatory Bowel Agents
+4650,Surfactant Laxatives
+4640,Lubricant Laxatives
+5907,Benzisoxazoles
+1615,Carbapenems
+7440,Neuromuscular Blocking Agent - Neurotoxins
+7814,B-Complex w/ Iron
+3017,Somatostatic Agents
+5940,Antipsychotics - Misc.
+5925,Quinolinone Derivatives
+6240,Multiple Sclerosis Agents
+5910,Butyrophenones
+5720,Antianxiety Agents - Misc.
+1950,Monoclonal Antibodies
+5520,Douche Products
+5537,Vaginal Progestins
+5515,Vaginal Anti-inflammatory Agents
+6627,Anti-TNF-alpha - Monoclonal Antibodies
+6650,Interleukin-6 Receptor Inhibitors
+5253,Short Bowel Syndrome (SBS) Agents
+3935,Proprotein Convertase Subtilisin/Kexin Type 9 Inhibitors
+6646,Interleukin-1beta Blockers
+1999,Passive Immunizing Agents - Combinations
+8510,Antihemophilic Products
+6770,Calcitonin Gene-Related Peptide (CGRP) Receptor Antag
+6640,Selective Costimulation Modulators
+5258,Peripheral Opioid Receptor Antagonists
+8582,Bradykinin B2 Receptor Antagonists
+6645,Interleukin-1 Blockers
+8250,Stem Cell Mobilizers
+8584,Plasma Kallikrein Inhibitors
+6217,Hypoactive Sexual Desire Disorder (HSDD) Agents
+6270,Transthyretin Amyloidosis Agents
+6629,Soluble Tumor Necrosis Factor Receptor Agents
+6626,Interleukin-1 Receptor Antagonist (IL-1Ra)
+6625,Antirheumatic Antimetabolites
+2717,Incretin Mimetic Agents (GLP-1 Receptor Agonists)
+2515,Progestin Contraceptives - Injectable
+2715,Antidiabetic - Amylin Analogs
+3010,Growth Hormones
+3015,Growth Hormone Releasing Hormones (GHRH)
+3009,GnRH/LHRH Antagonists
+3018,Growth Hormone Receptor Antagonists
+4530,Cystic Fibrosis Agents
+4330,Mucolytics
+4410,Bronchodilators - Anticholinergics
+4550,Pleural Sclerosing Agents
+4140,Antihistamines - Phenothiazines
+4240,Nasal Antiallergy
+4220,Nasal Steroids
+4223,Nasal Anesthetics
+4230,Nasal Anticholinergics
+4225,Nasal Anti-infectives
+3030,Corticotropin
+7975,Sodium
+7935,Iodine Products
+130,Penicillinase-Resistant Penicillins
+240,Cephalosporins - 4th Generation
+1610,Polymyxins
+900,Antimycobacterial Agents
+120,Aminopenicillins
+6130,Analeptics
+3720,Loop Diuretics
+4010,Peripheral Vasodilators
+3640,Vasodilators
+3710,Carbonic Anhydrase Inhibitors
+5230,Gastrointestinal Stimulants
+5690,Vesicoureteral Reflux (VUR) Agents
+7410,Depolarizing Muscle Relaxants
+3120,Cardiac Glycosides
+3540,Antiarrhythmics Type III
+3510,Antiarrhythmics Type I-A
+3630,Agents for Pheochromocytoma
+8220,Folic Acid/Folates
+7420,Nondepolarizing Muscle Relaxants
+7250,Valproic Acid
+4927,Proton Pump Inhibitors
+7520,Direct Muscle Relaxants
+5028,Substance P/Neurokinin 1 (NK1) Receptor Antagonists
+5806,GABA Receptor Modulator - Neuroactive Steroid
+8280,Agents for Sickle Cell Disease
+7460,Muscular Dystrophy Agents
+6800,Gout Agents
+4510,Alpha-Proteinase Inhibitor (Human)
+7450,ALS Agents
+8320,Coumarin Anticoagulants
+3080,Uterine Relaxants
+3019,Insulin-Like Growth Factor Receptor Inhibitors
+4018,Vasoactive Natriuretic Peptides
+3520,Antiarrhythmics Type I-B
+3320,Beta Blockers Cardio-Selective
+3550,Antiarrhythmics - Misc.
+3610,ACE Inhibitors
+4014,Pulmonary Hypertension - Phosphodiesterase Inhibitors
+3330,Alpha-Beta Blockers
+1623,Oxazolidinones
+1628,Glycopeptides
+1220,CMV Agents
+299,Cephalosporin Combinations
+1620,Chloramphenicols
+1270,Misc. Antivirals
+1624,Pleuromutilins
+420,Aminomethylcyclines
+435,Glycylcyclines (435)
+1625,Streptogramins
+1627,Cyclic Lipopeptides
+430,Fluorocyclines
+250,Cephalosporins - 5th Generation
+1150,Antifungal - Glucan Synthesis Inhibitors (Echinocandins)
+310,Erythromycins
+280,Cephalosporins - Siderophores
+8555,Human Protein C
+8525,Hemin
+8550,Protamine
+7970,Potassium
+7950,Manganese
+7841,Pediatric Multiple Vitamins
+8045,Protein-Carbohydrate-Lipid Combinations
+2150,Mitotic Inhibitors
+2165,Antineoplastic - Cellular Immunotherapy
+2133,Antineoplastic - Angiogenesis Inhibitors
+2155,Topoisomerase I Inhibitors
+2176,Chemotherapy Adjuncts
+8810,Anti-infectives - Throat
+8920,Rectal Local Anesthetics
+8910,Rectal Steroids
+8915,Intrarectal Steroids
+8930,Rectal Products - Misc.
+8925,Vasodilating Agents
+8940,Rectal Protectants-Emollients
+8710,Otic Anti-infectives
+8730,Otic Steroids
+8678,Ophthalmic Surgical Aids
+8665,Ophthalmic - Angiogenesis Inhibitors
+8637,Ophthalmic Gene Therapy
+8675,Ophthalmic Local Anesthetics
+8670,Ophthalmic Photodynamic Therapy Agents
+8625,Beta-blockers - Ophthalmic
+8677,Ophthalmic Nerve Growth Factors
+8679,Ophthalmic Photoenhancers
+8633,Prostaglandins - Ophthalmic
+8672,Ophthalmic Immunomodulators
+8673,Ophthalmic Integrin Antagonists
+8652,Ophthalmic Kinase Inhibitors
+9745,Female Personal Care Products
+9785,First Aid Kits
+9720,Diabetic Supplies
+9755,Infant Care Products
+9722,Blood Monitoring Supplies
+9760,Optical and Ophthalmic Supplies
+9970,Peritoneal Dialysis Solutions
+9947,Lymphatic Agents
+9972,Continuous Renal Replacement Therapy (CRRT) Solutions
+9935,Enzymes
+9985,Misc Natural Products
+9975,Irrigation Solutions
+9937,Fecal Incontinence Bulking Agents
+9942,Systemic Lupus Erythematosus Agents
+9920,Chelating Agents
+9945,Potassium Removing Agents
+9950,Prostaglandins
+9300,Antidotes and Specific Antagonists
+9310,Antidotes - Chelating Agents
+9320,Benzodiazepine Antagonists
+9563,Alternative Medicine - U
+9524,Alternative Medicine - H's
+9509,Alternative Medicine - C's
+9987,Homeopathic Products
+9780,Foot Care Products
+9736,Surgical Supplies
+9695,Bulk Chemical Compound Kits
+9610,"Acids, Bases, & Buffers"
+9560,Alternative Medicine - T's
+9730,Bandages-Dressings-Tape
+9380,Topical Antidotes
+9220,Iodine Antiseptics
+9533,Alternative Medicine - K's
+9545,Alternative Medicine - O's
+9554,Alternative Medicine - R's
+9569,Alternative Medicine - W's
+9575,Alternative Medicine - Y's
+9518,Alternative Medicine - F's
+9566,Alternative Medicine - V's
+9542,Alternative Medicine - N's
+9715,GI-GU Ostomy & Irrigation Supplies
+9710,Respiratory Therapy Supplies
+9725,Enteral Nutrition Supplies
+9770,Misc. Devices
+9708,Cardiology Supplies
+9747,Impotence Aids
+9737,Heating/Cooling Aids
+9742,Conception Assistance Supplies
+9717,Peritoneal Dialysis
+9757,Auditory Supplies
+9712,Respiratory Aids
+9735,Elastic Bandages & Supports
+9775,Blood Pressure Devices
+9734,Fixed (Rigid) Bandages/Supports & Accessories
+9739,Back Plasters
+9835,Pharmaceutical Excipients
+9830,Coloring Agents
+9836,Internal Vehicle Ingredients/Agents
+9880,Placebos
+9833,Flavoring Agents
+9805,Alkalizing Agents
+9890,Pharmaceutical Adjuvants Miscellanous
+9810,Antimicrobial Agents
+9865,Delivery Devices
+9870,Gelatin Capsules (Empty)
+9837,Surfactants
+9871,Non Gelatin Capsules (Empty)
+9983,Thickened Products
+9939,Immunomodulators
+9934,Digital Therapy
+9980,Organ Preservation Solutions
+9440,Laxatives - Miscellaneous
+9240,Silver Antiseptics
+9280,Disinfectants
+9686,Bulk Chemicals - W's
+9688,Bulk Chemicals - Y's
+9682,Bulk Chemicals - U's
+9687,Bulk Chemicals - X
+9660,Bulk Chemicals - J's
+9690,Bulk Chemicals
+9640,Semi-Solids
+8010,Liquids
+7835,Multiple Vitamins w/ Calcium
+7842,Ped Multiple Vitamins w/ Minerals
+7843,Ped MV w/ Iron
+7832,Multiple Vitamins & Fluoride-Folic Acid
+7844,Ped MV w/ Fluoride
+7840,Pediatric Vitamins
+7845,Ped Multi Vitamins w/Fl & FE
+7815,B-Complex w/ Minerals
+7846,Pediatric Multiple Vitamins & Minerals w/ Fluoride
+7831,Multiple Vitamins w/ Minerals
+7836,Multiple Vitamins w/ Minerals & Calcium-Folic Acid
+7852,Vitamins w/ Lipotropics
+7818,Biotin w/ Vitamins C & E
+7838,Multiple Vitamins w/ Minerals & Fluoride-Iron-Folic Acid
+7861,Iron w/ Vitamins
+7850,Specialty Vitamins Products
+7816,Bioflavonoid Products
+7837,Multiple Vitamins w/ Minerals & Fluoride-Folic Acid
+7821,Multiple Vitamins w/ Iron
+8140,Nutritional Substitutes
+7730,Misc. Nutritional Factors
+4840,Magnesium
+8110,Infant Foods
+8690,Contact Lens Solutions
+353,Fidaxomicin
+1500,Anthelmintics
+1400,Amebicides
+999,Anti TB Combinations
+350,Clarithromycin
+1621,Ketolides
+8810,Antifungals
+1629,Glycylcyclines
+1630,Leprostatics
+1628,Anti-infective Agents - Misc.
+4555,Pulmonary Fibrosis Agents
+4450,Leukotriene Modulators
+4445,Selective Phosphodiesterase 4 (PDE4) Inhibitors
+4145,Antihistamines - Piperazines
+2830,Antithyroid Agents
+2599,Combination Contraceptives - Oral
+2510,Progestin Contraceptives - Oral
+2220,Mineralocorticoids
+2598,Combination Contraceptives - Injectable
+2770,Sodium-Glucose Co-Transporter 2 (SGLT2) Inhibitors
+2755,Dipeptidyl Peptidase-4 (DPP-4) Inhibitors
+2760,Insulin Sensitizing Agents
+2757,Dopamine Receptor Agonists - Antidiabetic
+2750,Alpha-Glucosidase Inhibitors
+2728,Meglitinide Analogues
+2725,Biguanides
+2720,Sulfonylureas
+2723,Antidiabetic - Amino Acid Derivatives
+3005,Hormone Receptor Modulators
+3040,Prolactin Inhibitors
+3007,Luteinizing Hormone Releasing-Hormones (LHRH/GnRH)
+3050,Progesterone Receptor Antagonists
+8520,Hematorheologic Agents
+8575,Hemataologic - Tyrosine Kinase Inhibitors
+9097,Hemostatics - Topical
+8337,Direct Factor Xa Inhibitors
+3910,Bile Acid Sequestrants
+4012,Pulmonary Hypertension - Prostacyclin Receptor Agonist
+4099,Cardiovascular Agents Misc. - Combinations
+3945,Nicotinic Acid Derivatives
+3530,Antiarrhythmics Type I-C
+3920,Fibric Acid Derivatives
+3220,Antianginals-Other
+3948,Microsomal Triglyceride Transfer Protein (MTP) Inhibitors
+4013,Pulmonary Hypertension - Sol Guanylate Cyclase Stimulator
+3750,Potassium Sparing Diuretics
+4070,Sinus Node Inhibitors
+4016,Pulmonary Hypertension - Endothelin Receptor Antagonists
+3938,Adenosine Triphosphate-Citrate Lyase (ACL) Inhibitors
+4055,Transthyretin Stabilizers
+3870,Neurogenic Orthostatic Hypotension (NOH) - Agents
+3790,Diuretics - Miscellaneous
+3930,Intestinal Cholesterol Absorption Inhibitors
+3615,Angiotensin II Receptor Antagonists
+3625,Selective Aldosterone Receptor Antagonists (SARAs)
+3617,Direct Renin Inhibitors
+6810,Uricosurics
+6760,Migraine Products - NSAIDs
+6899,Gout Agent Combinations
+6660,Antirheumatic - Enzyme Inhibitors
+6670,Phosphodiesterase 4 (PDE4) Inhibitors
+6730,Carboxylic Acid Derivatives
+6628,Pyrimidine Synthesis Inhibitors
+4850,Antacids - Sodium Citrate
+4730,Antidiarrheal/Probiotic Agents - Misc.
+5275,Farnesoid X Receptor (FXR) Agonists
+5254,Agents for Chronic Idiopathic Constipation (CIC)
+5216,Gastrointestinal Antiallergy Agents
+5245,Gastrointestinal Chloride Channel Activators
+4830,Antacids - Calcium Salts
+5270,Bile Acid Synthesis Disorder Agents
+5280,Phosphate Binder Agents
+5256,5-HT4 Receptor Agonists
+4925,Ulcer Drugs - Prostaglandins
+4820,Antacids - Bicarbonate
+4725,Antidiarrheal - Chloride Channel Antagonists
+5210,Gallstone Solubilizing Agents
+4710,Antiperistaltic Agents
+5010,Antiemetics - Antidopaminergic
+5257,Tryptophan Hydroxylase Inhibitors
+5130,Gastric Acidifiers
+4930,Misc. Anti-Ulcer
+5240,Intestinal Acidifiers
+6260,Pseudobulbar Affect (PBA) Agents
+5820,Tricyclic Agents
+5812,Serotonin Modulators
+6256,Restless Leg Syndrome (RLS) Agents
+6050,Orexin Receptor Antagonists
+5818,Serotonin-Norepinephrine Reuptake Inhibitors (SNRIs)
+6137,Dopamine and Norepinephrine Reuptake Inhibitors (DNRIs)
+6238,Movement Disorder Drug Therapy
+6250,Fibromyalgia Agents
+6110,Amphetamines
+6280,Agents for Chemical Dependency
+6135,Attention-Deficit/Hyperactivity Disorder (ADHD) Agents
+6025,Selective Melatonin Receptor Agonists
+5816,Selective Serotonin Reuptake Inhibitors (SSRIs)
+5830,Antidepressants - Misc.
+6145,Histamine H3-Receptor Antagonist/Inverse Agonists
+5803,Alpha-2 Receptor Antagonists (Tetracyclics)
+6220,Premenstrual Dysphoric Disorder (PMDD) Agents
+6040,Hypnotics - Tricyclic Agents
+5916,Dihydroindolones
+6222,Vasomotor Symptom Agents
+6245,Anti-Cataplectic Agents
+7330,Antiparkinson Monoamine Oxidase Inhibitors
+7217,GABA Modulators
+7212,Carbamates
+7255,AMPA Glutamate Receptor Antagonists
+7315,Antiparkinson COMT Inhibitors
+7340,Antiparkinson Adjunctive Therapy
+7240,Succinimides
+7975,Genitourinary Irrigants
+5685,Prostatic Hypertrophy Agents
+5440,Urinary Antispasmodics - Direct Muscle Relaxants
+5430,Urinary Antispasmodics - Cholinergic Agonists
+5420,Urinary Antispasmodics - Beta-3 Adrenergic Agonists
+5640,Cystinosis Agents
+9097,*Unspecified
+2137,Antineoplastic - Hedgehog Pathway Inhibitors
+2145,Antineoplastic - Immunomodulators
+2156,Antineoplastic - XPO1 Inhibitors
+2147,Antineoplastic - BCL-2 Inhibitors
+9073,Hair Growth Agents
+9093,Scar Treatment Products
+9040,Bath Products
+9060,Diaper Rash Products
+9050,Cauterizing Agents
+9023,Phosphodiesterase 4 (PDE4) Inhibitors - Topical
+9077,Immunomodulating Agents - Topical
+9088,Agents for Wrinkles/Lipoatrophy/Other Aesthetic Uses
+9007,Analgesics - Topical
+9045,Burn Products
+9078,Immunosuppressive Agents - Topical
+9076,Agents for External Genital and Perianal Warts
+9099,Misc. Dermatological Products
+9092,Protectives Against UV Radiation
+9027,Eczema Agents
+9680,Cauterizing Agents
+6710,Opioid Agonists
+6710,*Unspecified
+7999,Irrigation Solutions
+9999,*Unspecified
+9999,Gallstone Solubilizing Agents
+9999,Anesthetics - Misc.
+8625,Misc. Topical
+4080,*Unspecified
+6710,Penicillin Combinations
+1122,Cephalosporins - 3rd Generation
+9999,Anti-infective Agents - Misc.
+6510,*Unspecified
+1234,Potassium
+8010,*Unspecified
+1600,Polymyxins
+2233,Penicillinase-Resistant Penicillins
+1235,Cephalosporins - 4th Generation
+9999,Glycopeptides
+3890,Vasopressors
+1111,Salicylates
+9642,Carbonic Anhydrase Inhibitors
+1258,Sodium
+8030,Diagnostic Drugs
+3570,*Unspecified
