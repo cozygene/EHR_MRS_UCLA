@@ -1,0 +1,57 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Thompson"
+  given-names: "Mike"
+  orcid: "https://orcid.org/0000-0003-1546-0512"
+- family-names: "Hill"
+  given-names: "Brian L."
+  orcid: "https://orcid.org/0000-0002-6881-5770"
+- family-names: "Rakocz"
+  given-names: "Nadav"
+- family-names: "Chiang"
+  given-names: "Jeffrey N."
+- family-names: "Sankararaman"
+  given-names: "Sriram"
+- family-names: "Hofer"
+  given-names: "Ira"
+- family-names: "Cannesson"
+  given-names: "Maxime"
+- family-names: "Zaitlen"
+  given-names: "Noah"
+- family-names: "Halperin"
+  given-names: "Eran"
+title: "Methylation risk scores are associated with a collection of phenotypes within electronic health record systems"
+url: "https://github.com/cozygene/EHR_MRS_UCLA"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Thompson"
+    given-names: "Mike"
+    orcid: "https://orcid.org/0000-0003-1546-0512"
+  - family-names: "Hill"
+    given-names: "Brian L."
+    orcid: "https://orcid.org/0000-0002-6881-5770"
+  - family-names: "Rakocz"
+    given-names: "Nadav"
+  - family-names: "Chiang"
+    given-names: "Jeffrey N."
+  - family-names: "Sankararaman"
+    given-names: "Sriram"
+  - family-names: "Hofer"
+    given-names: "Ira"
+  - family-names: "Cannesson"
+    given-names: "Maxime"
+  - family-names: "Zaitlen"
+    given-names: "Noah"
+  - family-names: "Halperin"
+    given-names: "Eran"
+  doi: "https://doi.org/10.1101/2022.02.07.22270047"
+  journal: "medRxiv"
+  month: 2
+  start: 1 # First page number
+  end: 1 # Last page number
+  title: "Methylation risk scores are associated with a collection of phenotypes within electronic health record systems"
+  issue:
+  volume: 
+  year: 2022
