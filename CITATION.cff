@@ -46,12 +46,12 @@ preferred-citation:
     given-names: "Noah"
   - family-names: "Halperin"
     given-names: "Eran"
-  doi: "https://doi.org/10.1101/2022.02.07.22270047"
-  journal: "medRxiv"
-  month: 2
+  doi: "https://doi.org/10.1038/s41525-022-00320-1"
+  journal: "npj Genomic Medicine"
+  month: 8
   start: 1 # First page number
-  end: 1 # Last page number
+  end: 11 # Last page number
   title: "Methylation risk scores are associated with a collection of phenotypes within electronic health record systems"
-  issue:
-  volume: 
+  issue: 1
+  volume: 7
   year: 2022
